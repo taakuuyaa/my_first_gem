@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = "taakuuya's first gem"
   spec.description   = "My first gem"
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/taakuuyaa/my_first_gem"
   spec.license       = "MIT"
   spec.required_ruby_version = ">= 2.6.0"
 
